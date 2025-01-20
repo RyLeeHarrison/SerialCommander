@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Mac Tings
+.DS_Store
